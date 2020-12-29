@@ -1,2 +1,2 @@
 # Monkey-Go-Happy
-An Monkey is escape from jail and obstacles are comming
+An Monkey is escape from zoo and obstacles are comming
